@@ -1,119 +1,138 @@
-<div align="center">
+🚀 Java Programming Internship Projects – INTERN ORBIT
+<p align="center"> <strong>A collection of hands-on Core Java console applications</strong><br> Developed during my Java Programming Internship to strengthen fundamentals </p> <p align="center"> <img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/OOP-Applied-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" /> </p> <p align="center"> <a href="#about">About</a> • <a href="#projects">Projects</a> • <a href="#technologies-used">Technologies</a> • <a href="#how-to-run">How to Run</a> • <a href="#learning-outcomes">Learning Outcomes</a> </p>
+📘 About
 
-  <h1>🚀 Java Programming Internship Projects – INTERN ORBIT</h1>
+This repository contains three console-based Java applications developed as part of the Java Programming Internship at Intern Orbit.
 
-  <p>
-    <strong>A collection of hands-on Core Java console applications</strong><br>
-    Built during my Java Programming Internship to master fundamentals
-  </p>
+These projects helped me strengthen:
 
-  <!-- Optional: add badges (you can generate real ones at https://shields.io) -->
-  <p>
-    <img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/OOP-Applied-blue?style=for-the-badge" alt="OOP"/>
-    <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed"/>
-  </p>
+Core Java concepts
 
-  <p>
-    <a href="#about">About</a> •
-    <a href="#projects">Projects</a> •
-    <a href="#technologies">Technologies</a> •
-    <a href="#how-to-run">How to Run</a> •
-    <a href="#learning-outcomes">What I Learned</a>
-  </p>
+Object-Oriented Programming (OOP)
 
-  <br>
+Collections and data handling
 
-</div>
+Input validation and exception handling
 
-## About
+Menu-driven application design
 
-This repository contains three practical console-based Java applications developed as part of the **Java Programming Internship (Intern Orbit)**.  
+Basic file handling
 
-These projects helped me strengthen core Java concepts including:
-- Object-Oriented Programming (OOP) principles
-- Collections & data structures
-- Basic input/output handling
-- Simple file operations (where applicable)
-- Menu-driven program design
-- Error handling & user-friendly interaction
+This repository is ideal for beginners, students, and internship preparation.
 
-Perfect showcase for beginners, students, or anyone preparing for Java interviews/internships!
+📂 Projects
+1️⃣ Student Grade Calculator 🎓
 
-## Projects
+A console-based application to calculate student grades based on subject marks.
 
-### 1. Student Grade Calculator 🎓
-A simple yet powerful tool to calculate and display student grades based on marks in multiple subjects.
+Features:
 
-**Features:**
-- Input student name, roll number & marks for multiple subjects
-- Automatic percentage & grade calculation (A+, A, B+, ... Fail)
-- Clear formatted output with grade remarks
-- Input validation for marks (0–100)
+Accepts student name, roll number, and marks
 
-🔗 [View Code → StudentGradeCalculator.java](https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/StudentGradeCalculator.java)
+Automatically calculates percentage
 
-### 2. ATM Interface 🏧
-Console-based simulation of a real ATM machine with secure PIN-based access.
+Displays grade (A+, A, B+, etc.)
 
-**Features:**
-- User authentication with PIN
-- Check balance
-- Deposit money
-- Withdraw money (with sufficient balance check)
-- Exit option
-- Clean menu-driven interface
+Validates marks (0–100 range)
 
-🔗 [View Code → ATMInterface.java](https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/ATMInterface.java)
+Clean and formatted output
 
-### 3. To-Do List Application 📝
-A feature-rich task manager to organize daily tasks efficiently.
+🔗 Source Code:
+👉 StudentGradeCalculator.java
 
-**Features:**
-- Add new tasks
-- View all tasks (numbered list)
-- Mark tasks as completed
-- Delete tasks
-- Persistent storage using file handling (optional – depending on your version)
-- Simple and intuitive menu
+2️⃣ ATM Interface 🏧
 
-🔗 [View Code → TodoListApp.java](https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/TodoListApp.java)
+A Java-based simulation of an ATM system.
 
-## Technologies Used
+Features:
 
-- **Language:** Core Java (JDK 8+ / 11+ / 17+ compatible)
-- **Concepts Demonstrated:**
-  - OOP (Classes, Objects, Encapsulation, Inheritance, Polymorphism)
-  - Collections Framework (ArrayList, etc.)
-  - Exception Handling
-  - File I/O (in some implementations)
-  - Scanner for user input
-  - Switch-case & loops for menu systems
+Secure PIN-based login
 
-## How to Run
+Balance inquiry
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/JesciArul/Intern-Orbit.git
-2.Navigate to the project folderBashcd Intern-Orbit/InternOrbit
- i.Compile & run any program (example):Bashjavac StudentGradeCalculator.java
-java StudentGradeCalculator(Repeat for ATMInterface.java or TodoListApp.java)
+Deposit and withdrawal options
 
-Tip: Use an IDE like IntelliJ IDEA, Eclipse, or VS Code with Java extensions for the best experience.
-##Learning Outcomes
-Through these projects I gained solid experience in:
-✅ Writing clean, readable, and well-structured Java code
-✅ Designing menu-driven applications
-✅ Implementing basic validation & error handling
-✅ Applying OOP concepts in real mini-projects
-✅ Organizing code in packages/files
-✅ Documenting & presenting work professionally
-These form a strong foundation for more advanced Java development (Spring Boot, Android, etc.).
-Connect & Feedback
-Feel free to ⭐ this repo if you found it helpful!
-Open to suggestions, improvements & collaboration.
+Insufficient balance check
 
-  
+Menu-driven interface
 
-  Made with ❤️ during Java Internship – Jan 2026
-  Happy Coding! ☕
+🔗 Source Code:
+👉 ATMInterface.java
+
+3️⃣ To-Do List Application 📝
+
+A simple task management system built using Java.
+
+Features:
+
+Add new tasks
+
+View all tasks
+
+Mark tasks as completed
+
+Delete tasks
+
+Optional file storage
+
+Easy-to-use menu
+
+🔗 Source Code:
+👉 TodoListApp.java
+
+🛠 Technologies Used
+
+Language: Java (JDK 8 / 11 / 17 compatible)
+
+Concepts Used:
+
+Object-Oriented Programming (OOP)
+
+Collections Framework
+
+Exception Handling
+
+File Handling
+
+Scanner Class
+
+Loops and Switch Statements
+
+▶ How to Run
+Step 1: Clone the repository
+git clone https://github.com/JesciArul/Intern-Orbit.git
+
+Step 2: Navigate to the project folder
+cd Intern-Orbit/InternOrbit
+
+Step 3: Compile and run any program
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
+
+
+(Repeat the same steps for ATMInterface.java or TodoListApp.java)
+
+💡 Tip: Use IntelliJ IDEA, Eclipse, or VS Code for the best experience.
+
+🎯 Learning Outcomes
+
+Through these projects, I gained:
+
+✅ Strong understanding of Core Java
+✅ Hands-on experience with OOP concepts
+✅ Experience building menu-driven applications
+✅ Improved logical thinking and problem-solving
+✅ Better code organization and readability
+✅ Confidence for Java interviews and internships
+
+These projects form a strong foundation for advanced topics such as Spring Boot, JDBC, and Android Development.
+
+🤝 Connect & Feedback
+
+⭐ If you found this repository helpful, please consider giving it a star.
+💬 Suggestions and improvements are always welcome.
+🤝 Open to collaboration and learning opportunities.
+
+❤️ Made with dedication during Java Internship – Jan 2026
+
+☕ Happy Coding!
