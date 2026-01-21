@@ -102,32 +102,32 @@ View source →https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/T
 ## 🚀 How to Run Locally
 
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/JesciArul/Intern-Orbit.git
 
-# 2. Go to project directory
+2. Go to project directory
 cd Intern-Orbit/src
 
-# 3. Compile & run any project (example: Student Grade Calculator)
+3. Compile & run any project (example: Student Grade Calculator)
 javac StudentGradeCalculator.java
 java StudentGradeCalculator
 
-# Repeat for:
-# javac ATMInterface.java       && java ATMInterface
-# javac TodoListApp.java        && java TodoListApp
+Repeat for:
+javac ATMInterface.java       && java ATMInterface
+javac TodoListApp.java        && java TodoListApp
 💡 Recommended IDEs: IntelliJ IDEA Community, Eclipse, VS Code + Extension Pack for Java
 
 
 🎯 Learning Outcomes & Skills Gained
 Through these projects I strengthened:
 
-✅ Solid Core Java fundamentals
-✅ Practical OOP implementation
-✅ Building interactive console applications
-✅ Writing user-friendly & robust code
-✅ Debugging & logical problem-solving
-✅ Code documentation & organization
-✅ Confidence for Java technical interviews & internships
+-✅ Solid Core Java fundamentals
+-✅ Practical OOP implementation
+-✅ Building interactive console applications
+-✅ Writing user-friendly & robust code
+-✅ Debugging & logical problem-solving
+-✅ Code documentation & organization
+-✅ Confidence for Java technical interviews & internships
 
 These form an excellent foundation for next steps:
 Spring Boot • JDBC • Hibernate • Maven/Gradle • REST APIs • Android Development
