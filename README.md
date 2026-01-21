@@ -8,15 +8,7 @@
 <h1 align="center">🚀 Intern Orbit – Java Programming Internship Projects</h1>
 <h3 align="center">Hands-on console applications built to master Core Java & OOP</h3>
 
-<p align="center">
-  <a href="#about-the-project">About</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#features">Key Features</a> •
-  <a href="#technologies">Technologies</a> •
-  <a href="#how-to-run">How to Run</a> •
-  <a href="#learning-outcomes">What I Learned</a> •
-  <a href="#contributing">Contributing</a>
-</p>
+
 
 <br>
 
@@ -53,7 +45,7 @@ Calculate student grades with automatic percentage and letter-grade assignment.
 - Calculates percentage & assigns grade (A+ to F)
 - Clean, tabular output formatting
 
-[→ View source → StudentGradeCalculator.java](src/StudentGradeCalculator.java)
+View source →https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/StudentGradeCalculator.java
 
 ### 2. ATM Interface 🏧
 
@@ -67,7 +59,7 @@ Realistic simulation of an ATM banking system.
 - Clean menu-driven interface
 - Transaction history preview
 
-[→ View source → ATMInterface.java](src/ATMInterface.java)
+ View source → https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/ATMInterface.java
 
 ### 3. To-Do List Manager 📝
 
@@ -81,7 +73,7 @@ Simple yet powerful task manager with persistence option.
 - Optional save/load from file (basic file handling)
 - Intuitive numbered menu
 
-[→ View source → TodoListApp.java](src/TodoListApp.java)
+View source →https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/TodoListApp.java
 
 <br>
 
@@ -109,7 +101,7 @@ Simple yet powerful task manager with persistence option.
 
 ## 🚀 How to Run Locally
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/JesciArul/Intern-Orbit.git
 
@@ -164,4 +156,4 @@ Open a Pull Request
   GitHub stars
   GitHub forks
 
-```
+
