@@ -1,138 +1,167 @@
-<p align="center"> <strong>🚀 Java Programming Internship Projects – INTERN ORBIT
-A collection of hands-on Core Java console applications</strong><br> Developed during my Java Programming Internship to strengthen fundamentals </p> <p align="center"> <img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/OOP-Applied-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" /> </p> <p align="center"> <a href="#about">About</a> • <a href="#projects">Projects</a> • <a href="#technologies-used">Technologies</a> • <a href="#how-to-run">How to Run</a> • <a href="#learning-outcomes">Learning Outcomes</a> </p>
-📘 About
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java 17+"/>
+  <img src="https://img.shields.io/badge/OOP-Applied-blue?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Internship-Completed-success?style=for-the-badge&logo=checkmarx" alt="Completed"/>
+  <img src="https://img.shields.io/github/license/JesciArul/Intern-Orbit?style=for-the-badge" alt="License"/>
+</p>
 
-This repository contains three console-based Java applications developed as part of the Java Programming Internship at Intern Orbit.
+<h1 align="center">🚀 Intern Orbit – Java Programming Internship Projects</h1>
+<h3 align="center">Hands-on console applications built to master Core Java & OOP</h3>
 
-These projects helped me strengthen:
+<p align="center">
+  <a href="#about-the-project">About</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#features">Key Features</a> •
+  <a href="#technologies">Technologies</a> •
+  <a href="#how-to-run">How to Run</a> •
+  <a href="#learning-outcomes">What I Learned</a> •
+  <a href="#contributing">Contributing</a>
+</p>
 
-Core Java concepts
+<br>
 
-Object-Oriented Programming (OOP)
+## 🌟 About The Project
 
-Collections and data handling
+This repository contains **three beginner-to-intermediate level console-based Java applications** developed during my **Java Programming Internship at Intern Orbit** (January 2026).
 
-Input validation and exception handling
+These mini-projects helped solidify:
 
-Menu-driven application design
+- Core Java syntax and logic
+- Object-Oriented Programming principles
+- Input validation & exception handling
+- Collections Framework basics
+- Menu-driven program design
+- Simple file I/O (in one project)
 
-Basic file handling
+Perfect for:
 
-This repository is ideal for beginners, students, and internship preparation.
+- Java beginners
+- Students preparing for internships
+- Anyone building a strong foundation before Spring Boot / JDBC / Android
 
-📂 Projects
-1️⃣ Student Grade Calculator 🎓
+<br>
 
-A console-based application to calculate student grades based on subject marks.
+## 🛠️ Projects Showcase
 
-Features:
+### 1. Student Grade Calculator 🎓
 
-Accepts student name, roll number, and marks
+Calculate student grades with automatic percentage and letter-grade assignment.
 
-Automatically calculates percentage
+**Features:**
+- Input student name, roll number & marks for multiple subjects
+- Validates marks (0–100)
+- Calculates percentage & assigns grade (A+ to F)
+- Clean, tabular output formatting
 
-Displays grade (A+, A, B+, etc.)
+[→ View source → StudentGradeCalculator.java](src/StudentGradeCalculator.java)
 
-Validates marks (0–100 range)
+### 2. ATM Interface 🏧
 
-Clean and formatted output
+Realistic simulation of an ATM banking system.
 
-🔗 Source Code:
-👉 StudentGradeCalculator.java
+**Features:**
+- 4-digit PIN authentication
+- Check balance
+- Deposit money
+- Withdraw money (with insufficient balance check)
+- Clean menu-driven interface
+- Transaction history preview
 
-2️⃣ ATM Interface 🏧
+[→ View source → ATMInterface.java](src/ATMInterface.java)
 
-A Java-based simulation of an ATM system.
+### 3. To-Do List Manager 📝
 
-Features:
+Simple yet powerful task manager with persistence option.
 
-Secure PIN-based login
+**Features:**
+- Add new tasks
+- View all tasks (with status)
+- Mark task as completed
+- Delete tasks
+- Optional save/load from file (basic file handling)
+- Intuitive numbered menu
 
-Balance inquiry
+[→ View source → TodoListApp.java](src/TodoListApp.java)
 
-Deposit and withdrawal options
+<br>
 
-Insufficient balance check
+## ⚡ Key Features Across Projects
 
-Menu-driven interface
+- 🛡️ **Strong input validation** & exception handling
+- 📋 **Menu-driven** user experience
+- 🧹 **Clean & readable** code structure
+- ♻️ **OOP principles** (classes, objects, encapsulation, methods)
+- 🔄 **Modular design** – easy to extend or modify
 
-🔗 Source Code:
-👉 ATMInterface.java
+<br>
 
-3️⃣ To-Do List Application 📝
+## 🛠️ Technologies & Concepts Used
 
-A simple task management system built using Java.
+- **Language:** Java (JDK 8 / 11 / 17 compatible)
+- **Core Concepts:**
+  - OOP (Classes, Objects, Inheritance, Encapsulation)
+  - Collections (ArrayList / HashMap – depending on project)
+  - Exception Handling (try-catch, custom messages)
+  - File Handling (FileWriter / FileReader – in To-Do List)
+  - Scanner, Loops, Switch, Methods, Arrays
 
-Features:
+<br>
 
-Add new tasks
+## 🚀 How to Run Locally
 
-View all tasks
-
-Mark tasks as completed
-
-Delete tasks
-
-Optional file storage
-
-Easy-to-use menu
-
-🔗 Source Code:
-👉 TodoListApp.java
-
-🛠 Technologies Used
-
-Language: Java (JDK 8 / 11 / 17 compatible)
-
-Concepts Used:
-
-Object-Oriented Programming (OOP)
-
-Collections Framework
-
-Exception Handling
-
-File Handling
-
-Scanner Class
-
-Loops and Switch Statements
-
-▶ How to Run
-Step 1: Clone the repository
+```bash
+# 1. Clone the repository
 git clone https://github.com/JesciArul/Intern-Orbit.git
 
-Step 2: Navigate to the project folder
-cd Intern-Orbit/InternOrbit
+# 2. Go to project directory
+cd Intern-Orbit/src
 
-Step 3: Compile and run any program
+# 3. Compile & run any project (example: Student Grade Calculator)
 javac StudentGradeCalculator.java
 java StudentGradeCalculator
 
+# Repeat for:
+# javac ATMInterface.java       && java ATMInterface
+# javac TodoListApp.java        && java TodoListApp
+💡 Recommended IDEs: IntelliJ IDEA Community, Eclipse, VS Code + Extension Pack for Java
 
-(Repeat the same steps for ATMInterface.java or TodoListApp.java)
 
-💡 Tip: Use IntelliJ IDEA, Eclipse, or VS Code for the best experience.
+🎯 Learning Outcomes & Skills Gained
+Through these projects I strengthened:
 
-🎯 Learning Outcomes
+✅ Solid Core Java fundamentals
+✅ Practical OOP implementation
+✅ Building interactive console applications
+✅ Writing user-friendly & robust code
+✅ Debugging & logical problem-solving
+✅ Code documentation & organization
+✅ Confidence for Java technical interviews & internships
 
-Through these projects, I gained:
+These form an excellent foundation for next steps:
+Spring Boot • JDBC • Hibernate • Maven/Gradle • REST APIs • Android Development
 
-✅ Strong understanding of Core Java
-✅ Hands-on experience with OOP concepts
-✅ Experience building menu-driven applications
-✅ Improved logical thinking and problem-solving
-✅ Better code organization and readability
-✅ Confidence for Java interviews and internships
 
-These projects form a strong foundation for advanced topics such as Spring Boot, JDBC, and Android Development.
+🤝 Contributing & Feedback
+Contributions, bug reports, feature suggestions, and improvements are very welcome!
 
-🤝 Connect & Feedback
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 
-⭐ If you found this repository helpful, please consider giving it a star.
-💬 Suggestions and improvements are always welcome.
-🤝 Open to collaboration and learning opportunities.
+💬 Feel free to open an issue for questions, suggestions or feedback.
 
-❤️ Made with dedication during Java Internship – Jan 2026
 
-☕ Happy Coding!
+
+  ⭐ If this helped you learn Java — please give a star!
+
+  Made with 💙 during Java Internship – January 2026
+
+  Happy Coding! ☕
+
+
+  GitHub stars
+  GitHub forks
+
+```
