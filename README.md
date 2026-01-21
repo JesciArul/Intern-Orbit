@@ -95,3 +95,25 @@ A feature-rich task manager to organize daily tasks efficiently.
 1. Clone the repository
    ```bash
    git clone https://github.com/JesciArul/Intern-Orbit.git
+2.Navigate to the project folderBashcd Intern-Orbit/InternOrbit
+ i.Compile & run any program (example):Bashjavac StudentGradeCalculator.java
+java StudentGradeCalculator(Repeat for ATMInterface.java or TodoListApp.java)
+
+Tip: Use an IDE like IntelliJ IDEA, Eclipse, or VS Code with Java extensions for the best experience.
+##Learning Outcomes
+Through these projects I gained solid experience in:
+✅ Writing clean, readable, and well-structured Java code
+✅ Designing menu-driven applications
+✅ Implementing basic validation & error handling
+✅ Applying OOP concepts in real mini-projects
+✅ Organizing code in packages/files
+✅ Documenting & presenting work professionally
+These form a strong foundation for more advanced Java development (Spring Boot, Android, etc.).
+Connect & Feedback
+Feel free to ⭐ this repo if you found it helpful!
+Open to suggestions, improvements & collaboration.
+
+  
+
+  Made with ❤️ during Java Internship – Jan 2026
+  Happy Coding! ☕
