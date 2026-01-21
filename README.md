@@ -121,28 +121,17 @@ javac TodoListApp.java        && java TodoListApp
 🎯 Learning Outcomes & Skills Gained
 Through these projects I strengthened:
 
--✅ Solid Core Java fundamentals
--✅ Practical OOP implementation
--✅ Building interactive console applications
--✅ Writing user-friendly & robust code
--✅ Debugging & logical problem-solving
--✅ Code documentation & organization
--✅ Confidence for Java technical interviews & internships
+-Solid Core Java fundamentals
+-Practical OOP implementation
+-Building interactive console applications
+-Writing user-friendly & robust code
+-Debugging & logical problem-solving
+-Code documentation & organization
+-Confidence for Java technical interviews & internships
 
 These form an excellent foundation for next steps:
 Spring Boot • JDBC • Hibernate • Maven/Gradle • REST APIs • Android Development
 
-
-🤝 Contributing & Feedback
-Contributions, bug reports, feature suggestions, and improvements are very welcome!
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-
-💬 Feel free to open an issue for questions, suggestions or feedback.
 
 
 
