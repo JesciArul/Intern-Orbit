@@ -102,21 +102,21 @@ View source →https://github.com/JesciArul/Intern-Orbit/blob/main/InternOrbit/T
 
 ## 🎯 Learning outcomes and skills gained
 
-Through these projects I strengthened:
+Through these projects I strengthened:<br>
 
--Solid Core Java fundamentals
--Practical OOP implementation
--Building interactive console applications
--Writing user-friendly & robust code
--Debugging & logical problem-solving
--Code documentation & organization
--Confidence for Java technical interviews & internships
+-Solid Core Java fundamentals<br>
+-Practical OOP implementation<br>
+-Building interactive console applications<br>
+-Writing user-friendly & robust code<br>
+-Debugging & logical problem-solving<br>
+-Code documentation & organization<br>
+-Confidence for Java technical interviews & internships<br>
 
-These form an excellent foundation for next steps:
+These form an excellent foundation for next steps:<br>
 Spring Boot • JDBC • Hibernate • Maven/Gradle • REST APIs • Android Development
 
 
-
+<hr>
 
   ⭐ If this helped you learn Java — please give a star!
 
